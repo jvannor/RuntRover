@@ -1,0 +1,25 @@
+1. Adafruit Feather nRF52840
+https://www.adafruit.com/product/4516
+
+2. DC Motor + Stepper FeatherWing Add-on for all Feather Boards
+https://www.adafruit.com/product/2927
+
+3. FeatherWing Doubler - Prototyping Add-on For All Feather Boards
+https://www.adafruit.com/product/2890
+
+4. Lithium Ion Polymer Battery - 3.7v 1200 mah
+https://www.adafruit.com/product/258
+
+5. 4 x AA Battery Holder with On/Off Switch
+https://www.adafruit.com/product/830
+
+6. Junior Runt Rover Robot Kit
+https://www.servocity.com/junior-runt-rover/
+
+7. Zulkit Project Box ABS Platstic IP65 Watrproof Dustproof Electrical Junction Box Enclosure (3.94 x 2.68 x 1.97 inch)
+https://www.amazon.com/Zulkit-Waterproof-Electronic-Enclosure-100X68X50mm/dp/B07RTYYHK7
+
+8. Velcro Tape
+https://www.amazon.com/Dual-Reclosable-Fastener-SJ3560-Clear/dp/B07QNMBB28/
+
+
